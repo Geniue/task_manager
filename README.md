@@ -28,7 +28,7 @@ Users can **add tasks, mark them complete, and delete them**.
    
 2. Move to root dir:
    ```bash
-   cd task-manager-app
+   cd task_manager
 
 3. Install node packages :
    ```bash
