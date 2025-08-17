@@ -25,10 +25,16 @@ Users can **add tasks, mark them complete, and delete them**.
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/task-manager-app.git
+   
+2. Move to root dir:
    ```bash
    cd task-manager-app
+
+3. Install node packages :
    ```bash
    npm install
+
+4. Start the expo server :
    ```bash
    npx expo start
    
