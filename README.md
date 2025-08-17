@@ -17,14 +17,14 @@ Users can **add tasks, mark them complete, and delete them**.
 
 ## 🛠 Tech Stack
 - **React Native**
-- **Expo** (for quick setup and development)
+- **Expo**
 
 ---
 
 ## 📂 Installation & Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/task-manager-app.git
+   git clone https://github.com/Geniue/task_manager.git
    
 2. Move to root dir:
    ```bash
